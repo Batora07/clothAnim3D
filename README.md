@@ -13,6 +13,7 @@ HOW TO Compile/Execute :
 	4/      $ ./go
 
 On the GKit UI, you can press (on an AZERTY keyboard) :
+
 W : To display / hide the meshs
 
 G : To display / hide orthonormal view
@@ -25,6 +26,7 @@ Version fonctionnelle uniquement sous système UNIX.
 Commandes pour executer le programme :
 
 Compilation :
+
 	1/      $ cd gkit2light-master_MecaSim
 
 	2/	    $ premake/premake4.linux --file=master_MecaSim.lua gmake
@@ -34,6 +36,7 @@ Compilation :
 	4/      $ ./go
 
 Sur GKit, appuyer sur :
+
 W : pour afficher / cacher les mesh
 
 G : Pour afficher / cacher le repère orthonormé
